@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "907796142943",
+    "firebase_url": "https://infocity-31afd.firebaseio.com",
+    "project_id": "infocity-31afd",
+    "storage_bucket": "infocity-31afd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907796142943:android:d70f631bedfb25ed",
+        "android_client_info": {
+          "package_name": "com.ionic.infocity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907796142943-02bv6a4693e04d96jre49n6e9btn9pl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyLKMMsLYGwYMesYezlNTIExRxZkbXY28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907796142943-02bv6a4693e04d96jre49n6e9btn9pl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907796142943-m2l31g9ej93fm6krb3ih5tslj9j247ug.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ionic.infocity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
